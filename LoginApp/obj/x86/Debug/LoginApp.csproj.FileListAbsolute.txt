@@ -1,0 +1,9 @@
+C:\Do Not Delete\LoginApp\LoginApp\obj\x86\Debug\LoginApp.frmLogin.resources
+C:\Do Not Delete\LoginApp\LoginApp\obj\x86\Debug\LoginApp.frmMain.resources
+C:\Do Not Delete\LoginApp\LoginApp\obj\x86\Debug\LoginApp.Properties.Resources.resources
+C:\Do Not Delete\LoginApp\LoginApp\obj\x86\Debug\LoginApp.csproj.GenerateResource.Cache
+C:\Do Not Delete\LoginApp\LoginApp\bin\Debug\LoginApp.exe
+C:\Do Not Delete\LoginApp\LoginApp\bin\Debug\LoginApp.pdb
+C:\Do Not Delete\LoginApp\LoginApp\obj\x86\Debug\LoginApp.exe
+C:\Do Not Delete\LoginApp\LoginApp\obj\x86\Debug\LoginApp.pdb
+C:\Do Not Delete\LoginApp\LoginApp\obj\x86\Debug\LoginApp.csprojResolveAssemblyReference.cache
